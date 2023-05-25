@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project assembly_name="DotNetGoat.dll" default_configuration_name="Debug|AnyCPU" framework_version="v3.5" ltd_name="c#" name="WebGoat.NET" output_path="C:/Sample Applications/WebGoat.NET-master/WebGoat/bin/DotNetGoat.dll" version="10.0.5">
+	<ProjectScanSettings/>
+</Project>
